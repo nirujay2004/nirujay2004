@@ -1,6 +1,7 @@
-<p align="right">
-  <img src="https://media1.tenor.com/m/iVlIFT24EnkAAAAd/genshin-impact-klee.gif" width="150" alt="milky-profile-gif">
-</p>
+<img align="right" src="https://media1.tenor.com/m/iVlIFT24EnkAAAAd/genshin-impact-klee.gif" width="200px" />
+
+# Hi! I’m milky. I build (and break) things.
+... (rest of your profile)
 Hi! I’m milky. I build (and break) things.
 
 Currently navigating the world of:
